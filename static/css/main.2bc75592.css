@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.body {
+  align-items: center;
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  width: 100%;
+}
+.ctr {
+  height: 80vh;
+  width: 40%;
+}
+.ctr-img {
+  background-image: url(../../static/media/krishna.f22a4335255c0d66b012.webp);
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 40vh;
+  width: 100%;
+}
+.p-tatva {
+  font: 20px Arial red;
+  width: 100%;
+}
+.counter {
+  display: flex;
+  justify-content: center;
+}
+input {
+  height: 5vh;
+  padding: 1px;
+}
+button {
+  background-color: #f4c430;
+  border: none;
+  color: #fff;
+  font-weight: 900;
+  width: 10%;
+}
+/*# sourceMappingURL=main.2bc75592.css.map*/

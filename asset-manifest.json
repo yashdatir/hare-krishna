@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.css": "./static/css/main.2bc75592.css",
+    "main.js": "./static/js/main.f4e7dd7f.js",
+    "static/media/krishna.webp": "./static/media/krishna.f22a4335255c0d66b012.webp",
+    "index.html": "./index.html",
+    "main.2bc75592.css.map": "./static/css/main.2bc75592.css.map",
+    "main.f4e7dd7f.js.map": "./static/js/main.f4e7dd7f.js.map"
+  },
+  "entrypoints": ["static/css/main.2bc75592.css", "static/js/main.f4e7dd7f.js"]
+}
